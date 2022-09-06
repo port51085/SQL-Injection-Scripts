@@ -1,3 +1,4 @@
+#developed this script while doing portswigger blind sql injection with conditional errors lab - takes for granted that you already know the password length is 20, that there is a users table, and that you know the columns in the table
 import requests
 import os
 import warnings
